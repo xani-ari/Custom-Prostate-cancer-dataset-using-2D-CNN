@@ -3,6 +3,9 @@ Prostate Cancer (PCa) can be considered as the second cause of death among men a
 
 Dataset:
 the dataset is private and it was collected from several different sources (private health care centers). 
+Dataset is available through this link :
+ari.m.ali@spu.edu.iq
+https://drive.google.com/drive/folders/1GZ4XBkBpy1XBIEcyE4STVHhQePO7Qgfc
 
 Model:
 2-D-CNN has been used.
